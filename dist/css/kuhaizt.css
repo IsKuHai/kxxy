@@ -1,0 +1,12 @@
+@font-face{
+        font-family:'en_kuhai';
+        src:url("../../fonts/Inconsolata-SemiBold.otf");
+    }
+    @font-face{
+        font-family:'zh_kuhai';
+        src:url("../../fonts/sjzdhjt.ttf");
+    }
+    
+    *{
+    font-family:"en_kuhai","zh_kuhai";
+    }
